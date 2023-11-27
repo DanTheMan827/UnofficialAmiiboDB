@@ -1,0 +1,144 @@
+﻿{
+	"amiibo_series": {
+		"0x00": "Unknown"
+	},
+	"amiibos": {
+		"0x0003000000000002": {
+			"mapped_id": "0x0003000000020002",
+			"name": "Yoshi",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0008000000000002": {
+			"mapped_id": "0x0008000000030002",
+			"name": "Donkey Kong",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0100000000000002": {
+			"mapped_id": "0x0100000000040002",
+			"name": "Link",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0581000000000002": {
+			"mapped_id": "0x05810000001c0002",
+			"name": "Falco",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0741000000000002": {
+			"mapped_id": "0x0741000000200002",
+			"name": "Dark Pit",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0742000000000002": {
+			"mapped_id": "0x07420000001f0002",
+			"name": "Palutena",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0781000000000002": {
+			"mapped_id": "0x0781000000330002",
+			"name": "R.O.B. - NES",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x1919000000000002": {
+			"mapped_id": "0x1919000000090002",
+			"name": "Pikachu",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x2104000000000002": {
+			"mapped_id": "0x2104000002520002",
+			"name": "Roy",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x2281000000000002": {
+			"mapped_id": "0x2281000002510002",
+			"name": "Lucas",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x34c0000000000002": {
+			"mapped_id": "0x34c0000002530002",
+			"name": "Ryu",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		}
+	},
+	"characters": {
+		"0x0003": "Yoshi",
+		"0x0008": "Donkey Kong",
+		"0x0100": "Link",
+		"0x0581": "Falco",
+		"0x0741": "Dark Pit",
+		"0x0742": "Palutena",
+		"0x0781": "R.O.B.",
+		"0x1919": "Pikachu",
+		"0x2104": "Roy",
+		"0x2281": "Lucas",
+		"0x34c0": "Ryu"
+	},
+	"game_series": {
+		"0x000": "Super Mario",
+		"0x010": "The Legend of Zelda",
+		"0x058": "Star Fox",
+		"0x074": "Kid Icarus",
+		"0x078": "Classic Nintendo",
+		"0x191": "Pokemon",
+		"0x210": "Fire Emblem",
+		"0x228": "Earthbound",
+		"0x34c": "Street fighter"
+	},
+	"types": {
+		"0x00": "Figure"
+	}
+}
