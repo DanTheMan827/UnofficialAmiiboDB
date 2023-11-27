@@ -84,7 +84,7 @@ for key in database['amiibos']:
 		if 'mapped_id' in amiibo:
 			if amiibo['mapped_id'] is not None:
 				if key[:10] != amiibo['mapped_id'][:10]:
-					printError(1, 'mapped_id character mismatch for: ' + key)
+					printWarning('mapped_id character mismatch for: ' + key)
 
 		# check if release is set
 		if 'release' in amiibo:

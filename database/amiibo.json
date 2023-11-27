@@ -1,7 +1,8 @@
-{
+﻿{
 	"amiibo_series": {
 		"0x00": "Unknown",
-		"0x05": "Animal Crossing"
+		"0x05": "Animal Crossing",
+		"0x09": "Legend Of Zelda"
 	},
 	"amiibos": {
 		"0x0003000000000002": {
@@ -27,6 +28,26 @@
 		"0x0100000000000002": {
 			"mapped_id": "0x0100000000040002",
 			"name": "Link",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0100000004190902": {
+			"mapped_id": "0x0101000004190902",
+			"name": "Zelda - Tears of the Kingdom",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x01000000041a0902": {
+			"mapped_id": "0x01020100041a0902",
+			"name": "Ganondorf - Tears of the Kingdom",
 			"release": {
 				"au": null,
 				"eu": null,
