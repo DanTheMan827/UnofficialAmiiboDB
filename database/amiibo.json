@@ -1,6 +1,7 @@
-﻿{
+{
 	"amiibo_series": {
-		"0x00": "Unknown"
+		"0x00": "Unknown",
+		"0x05": "Animal Crossing"
 	},
 	"amiibos": {
 		"0x0003000000000002": {
@@ -26,6 +27,156 @@
 		"0x0100000000000002": {
 			"mapped_id": "0x0100000000040002",
 			"name": "Link",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0181040100550502": {
+			"mapped_id": "0x0181040103aa0502",
+			"name": "Isabelle",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0181050100550502": {
+			"mapped_id": "0x0181050103bf0502",
+			"name": "Isabelle - Sweater",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0182000100550502": {
+			"mapped_id": "0x0182000103b20502",
+			"name": "K.K. Slider",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0183020100550502": {
+			"mapped_id": "0x0183020103a80502",
+			"name": "Tom Nook",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0183030100550502": {
+			"mapped_id": "0x0183030103be0502",
+			"name": "Tom Nook - Coast",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0184050100550502": {
+			"mapped_id": "0x0184050103a90502",
+			"name": "Timmy & Tommy",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0187000100550502": {
+			"mapped_id": "0x0187000103b00502",
+			"name": "Sable",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0188000100550502": {
+			"mapped_id": "0x0188000103af0502",
+			"name": "Mabel",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0189010100550502": {
+			"mapped_id": "0x0189010103b10502",
+			"name": "Label",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0192000100550502": {
+			"mapped_id": "0x0192000103ad0502",
+			"name": "Blathers",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0193000100550502": {
+			"mapped_id": "0x0193000103ae0502",
+			"name": "Celeste",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0194000100550502": {
+			"mapped_id": "0x0194000103b60502",
+			"name": "Kicks",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x01a2000100550502": {
+			"mapped_id": "0x01a2000103b90502",
+			"name": "Gulliver",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x01a6000100550502": {
+			"mapped_id": "0x01a6000103b70502",
+			"name": "Saharah",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x01c1020100550502": {
+			"mapped_id": "0x01c1020103bb0502",
+			"name": "Lottie - Island",
 			"release": {
 				"au": null,
 				"eu": null,
@@ -66,6 +217,336 @@
 		"0x0781000000000002": {
 			"mapped_id": "0x0781000000330002",
 			"name": "R.O.B. - NES",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a00000100550502": {
+			"mapped_id": "0x0a00000103ab0502",
+			"name": "Orville",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a01000100550502": {
+			"mapped_id": "0x0a01000103ac0502",
+			"name": "Wilbur",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a02000100550502": {
+			"mapped_id": "0x0a02000103b30502",
+			"name": "CJ",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a03000100550502": {
+			"mapped_id": "0x0a03000103b40502",
+			"name": "Flick",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a04000100550502": {
+			"mapped_id": "0x0a04000103b50502",
+			"name": "Daisy Mae",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a05000100550502": {
+			"mapped_id": "0x0a05000103b80502",
+			"name": "Harvey",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a06000100550502": {
+			"mapped_id": "0x0a06000103ba0502",
+			"name": "Wisp",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a07000100550502": {
+			"mapped_id": "0x0a07000103bc0502",
+			"name": "Niko",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a08000100550502": {
+			"mapped_id": "0x0a08000103bd0502",
+			"name": "Wardell",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a09000100550502": {
+			"mapped_id": "0x0a09000103c00502",
+			"name": "Sherb",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a0a000100550502": {
+			"mapped_id": "0x0a0a000103c10502",
+			"name": "Megan",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a0b000100550502": {
+			"mapped_id": "0x0a0b000103c20502",
+			"name": "Dom",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a0c000100550502": {
+			"mapped_id": "0x0a0c000103c30502",
+			"name": "Audie",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a0d000100550502": {
+			"mapped_id": "0x0a0d000103c40502",
+			"name": "Cyd",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a0e000100550502": {
+			"mapped_id": "0x0a0e000103c50502",
+			"name": "Judy",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a0f000100550502": {
+			"mapped_id": "0x0a0f000103c60502",
+			"name": "Raymond",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a10000100550502": {
+			"mapped_id": "0x0a10000103c70502",
+			"name": "Reneigh",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a11000100550502": {
+			"mapped_id": "0x0a11000103c80502",
+			"name": "Sasha",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a12000100550502": {
+			"mapped_id": "0x0a12000103c90502",
+			"name": "Ione",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a13000100550502": {
+			"mapped_id": "0x0a13000103ca0502",
+			"name": "Tiansheng",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a14000100550502": {
+			"mapped_id": "0x0a14000103cb0502",
+			"name": "Shino",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a15000100550502": {
+			"mapped_id": "0x0a15000103cc0502",
+			"name": "Marlo",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a16000100550502": {
+			"mapped_id": "0x0a16000103cd0502",
+			"name": "Petri",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a17000100550502": {
+			"mapped_id": "0x0a17000103ce0502",
+			"name": "Cephalobot",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a18000100550502": {
+			"mapped_id": "0x0a18000103cf0502",
+			"name": "Quinn",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a19000100550502": {
+			"mapped_id": "0x0a19000103d00502",
+			"name": "Chabwick",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a1a000100550502": {
+			"mapped_id": "0x0a1a000103d10502",
+			"name": "Zoe",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a1b000100550502": {
+			"mapped_id": "0x0a1b000103d20502",
+			"name": "Ace",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a1c000100550502": {
+			"mapped_id": "0x0a1c000103d30502",
+			"name": "Rio",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a1d000100550502": {
+			"mapped_id": "0x0a1d000103d40502",
+			"name": "Frett",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a1e000100550502": {
+			"mapped_id": "0x0a1e000103d50502",
+			"name": "Azalea",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a1f000100550502": {
+			"mapped_id": "0x0a1f000103d60502",
+			"name": "Roswell",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0a20000100550502": {
+			"mapped_id": "0x0a20000103d70502",
+			"name": "Faith",
 			"release": {
 				"au": null,
 				"eu": null,
@@ -118,10 +599,56 @@
 		"0x0003": "Yoshi",
 		"0x0008": "Donkey Kong",
 		"0x0100": "Link",
+		"0x0181": "Isabelle",
+		"0x0182": "K.K. Slider",
+		"0x0183": "Tom Nook",
+		"0x0184": "Timmy & Tommy",
+		"0x0187": "Sable",
+		"0x0188": "Mabel",
+		"0x0189": "Label",
+		"0x0192": "Blathers",
+		"0x0193": "Celeste",
+		"0x0194": "Kicks",
+		"0x01a2": "Gulliver",
+		"0x01a6": "Saharah",
+		"0x01c1": "Lottie",
 		"0x0581": "Falco",
 		"0x0741": "Dark Pit",
 		"0x0742": "Palutena",
 		"0x0781": "R.O.B.",
+		"0x0a00": "Orville",
+		"0x0a01": "Wilbur",
+		"0x0a02": "C.J.",
+		"0x0a03": "Flick",
+		"0x0a04": "Daisy Mae",
+		"0x0a05": "Harvey",
+		"0x0a06": "Wisp",
+		"0x0a07": "Niko",
+		"0x0a08": "Wardell",
+		"0x0a09": "Sherb",
+		"0x0a0a": "Megan",
+		"0x0a0b": "Dom",
+		"0x0a0c": "Audie",
+		"0x0a0d": "Cyd",
+		"0x0a0e": "Judy",
+		"0x0a0f": "Raymond",
+		"0x0a10": "Reneigh",
+		"0x0a11": "Sasha",
+		"0x0a12": "Ione",
+		"0x0a13": "Tiansheng",
+		"0x0a14": "Shino",
+		"0x0a15": "Marlo",
+		"0x0a16": "Petri",
+		"0x0a17": "Cephalobot",
+		"0x0a18": "Quinn",
+		"0x0a19": "Chabwick",
+		"0x0a1a": "Zoe",
+		"0x0a1b": "Ace",
+		"0x0a1c": "Rio",
+		"0x0a1d": "Frett",
+		"0x0a1e": "Azalea",
+		"0x0a1f": "Roswell",
+		"0x0a20": "Faith",
 		"0x1919": "Pikachu",
 		"0x2104": "Roy",
 		"0x2281": "Lucas",
@@ -130,15 +657,23 @@
 	"game_series": {
 		"0x000": "Super Mario",
 		"0x010": "The Legend of Zelda",
+		"0x018": "Animal Crossing",
+		"0x019": "Animal Crossing",
+		"0x01a": "Animal Crossing",
+		"0x01c": "Animal Crossing",
 		"0x058": "Star Fox",
 		"0x074": "Kid Icarus",
 		"0x078": "Classic Nintendo",
+		"0x0a0": "Animal Crossing",
+		"0x0a1": "Animal Crossing",
+		"0x0a2": "Animal Crossing",
 		"0x191": "Pokemon",
 		"0x210": "Fire Emblem",
 		"0x228": "Earthbound",
 		"0x34c": "Street fighter"
 	},
 	"types": {
-		"0x00": "Figure"
+		"0x00": "Figure",
+		"0x01": "Card"
 	}
 }
