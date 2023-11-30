@@ -13,7 +13,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0008000000000002": {
 			"mapped_id": "0x0008000000030002",
@@ -23,7 +24,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0100000000000002": {
 			"mapped_id": "0x0100000000040002",
@@ -33,7 +35,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0100000004190902": {
 			"mapped_id": "0x0101000004190902",
@@ -43,7 +46,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x01000000041a0902": {
 			"mapped_id": "0x01020100041a0902",
@@ -53,7 +57,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0181040100550502": {
 			"mapped_id": "0x0181040103aa0502",
@@ -63,7 +68,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0181050100550502": {
 			"mapped_id": "0x0181050103bf0502",
@@ -73,7 +79,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0182000100550502": {
 			"mapped_id": "0x0182000103b20502",
@@ -83,7 +90,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0183020100550502": {
 			"mapped_id": "0x0183020103a80502",
@@ -93,7 +101,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0183030100550502": {
 			"mapped_id": "0x0183030103be0502",
@@ -103,7 +112,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0184050100550502": {
 			"mapped_id": "0x0184050103a90502",
@@ -113,7 +123,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0187000100550502": {
 			"mapped_id": "0x0187000103b00502",
@@ -123,7 +134,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0188000100550502": {
 			"mapped_id": "0x0188000103af0502",
@@ -133,7 +145,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0189010100550502": {
 			"mapped_id": "0x0189010103b10502",
@@ -143,7 +156,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0192000100550502": {
 			"mapped_id": "0x0192000103ad0502",
@@ -153,7 +167,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0193000100550502": {
 			"mapped_id": "0x0193000103ae0502",
@@ -163,7 +178,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0194000100550502": {
 			"mapped_id": "0x0194000103b60502",
@@ -173,7 +189,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x01a2000100550502": {
 			"mapped_id": "0x01a2000103b90502",
@@ -183,7 +200,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x01a6000100550502": {
 			"mapped_id": "0x01a6000103b70502",
@@ -193,7 +211,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x01c1020100550502": {
 			"mapped_id": "0x01c1020103bb0502",
@@ -203,7 +222,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0581000000000002": {
 			"mapped_id": "0x05810000001c0002",
@@ -213,7 +233,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0741000000000002": {
 			"mapped_id": "0x0741000000200002",
@@ -223,7 +244,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0742000000000002": {
 			"mapped_id": "0x07420000001f0002",
@@ -233,7 +255,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0781000000000002": {
 			"mapped_id": "0x0781000000330002",
@@ -243,7 +266,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a00000100550502": {
 			"mapped_id": "0x0a00000103ab0502",
@@ -253,7 +277,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a01000100550502": {
 			"mapped_id": "0x0a01000103ac0502",
@@ -263,7 +288,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a02000100550502": {
 			"mapped_id": "0x0a02000103b30502",
@@ -273,7 +299,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a03000100550502": {
 			"mapped_id": "0x0a03000103b40502",
@@ -283,7 +310,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a04000100550502": {
 			"mapped_id": "0x0a04000103b50502",
@@ -293,7 +321,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a05000100550502": {
 			"mapped_id": "0x0a05000103b80502",
@@ -303,7 +332,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a06000100550502": {
 			"mapped_id": "0x0a06000103ba0502",
@@ -313,7 +343,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a07000100550502": {
 			"mapped_id": "0x0a07000103bc0502",
@@ -323,7 +354,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a08000100550502": {
 			"mapped_id": "0x0a08000103bd0502",
@@ -333,7 +365,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a09000100550502": {
 			"mapped_id": "0x0a09000103c00502",
@@ -343,7 +376,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a0a000100550502": {
 			"mapped_id": "0x0a0a000103c10502",
@@ -353,7 +387,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a0b000100550502": {
 			"mapped_id": "0x0a0b000103c20502",
@@ -363,7 +398,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a0c000100550502": {
 			"mapped_id": "0x0a0c000103c30502",
@@ -373,7 +409,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a0d000100550502": {
 			"mapped_id": "0x0a0d000103c40502",
@@ -383,7 +420,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a0e000100550502": {
 			"mapped_id": "0x0a0e000103c50502",
@@ -393,7 +431,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a0f000100550502": {
 			"mapped_id": "0x0a0f000103c60502",
@@ -403,7 +442,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a10000100550502": {
 			"mapped_id": "0x0a10000103c70502",
@@ -413,7 +453,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a11000100550502": {
 			"mapped_id": "0x0a11000103c80502",
@@ -423,7 +464,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a12000100550502": {
 			"mapped_id": "0x0a12000103c90502",
@@ -433,7 +475,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a13000100550502": {
 			"mapped_id": "0x0a13000103ca0502",
@@ -443,7 +486,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a14000100550502": {
 			"mapped_id": "0x0a14000103cb0502",
@@ -453,7 +497,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a15000100550502": {
 			"mapped_id": "0x0a15000103cc0502",
@@ -463,7 +508,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a16000100550502": {
 			"mapped_id": "0x0a16000103cd0502",
@@ -473,7 +519,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a17000100550502": {
 			"mapped_id": "0x0a17000103ce0502",
@@ -483,7 +530,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a18000100550502": {
 			"mapped_id": "0x0a18000103cf0502",
@@ -493,7 +541,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a19000100550502": {
 			"mapped_id": "0x0a19000103d00502",
@@ -503,7 +552,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a1a000100550502": {
 			"mapped_id": "0x0a1a000103d10502",
@@ -513,7 +563,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a1b000100550502": {
 			"mapped_id": "0x0a1b000103d20502",
@@ -523,7 +574,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a1c000100550502": {
 			"mapped_id": "0x0a1c000103d30502",
@@ -533,7 +585,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a1d000100550502": {
 			"mapped_id": "0x0a1d000103d40502",
@@ -543,7 +596,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a1e000100550502": {
 			"mapped_id": "0x0a1e000103d50502",
@@ -553,7 +607,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a1f000100550502": {
 			"mapped_id": "0x0a1f000103d60502",
@@ -563,7 +618,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x0a20000100550502": {
 			"mapped_id": "0x0a20000103d70502",
@@ -573,7 +629,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x1919000000000002": {
 			"mapped_id": "0x1919000000090002",
@@ -583,7 +640,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x2104000000000002": {
 			"mapped_id": "0x2104000002520002",
@@ -593,7 +651,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x2281000000000002": {
 			"mapped_id": "0x2281000002510002",
@@ -603,7 +662,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		},
 		"0x34c0000000000002": {
 			"mapped_id": "0x34c0000002530002",
@@ -613,7 +673,8 @@
 				"eu": null,
 				"jp": null,
 				"na": null
-			}
+			},
+			"visible": false
 		}
 	},
 	"characters": {
