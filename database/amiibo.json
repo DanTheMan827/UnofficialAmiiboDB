@@ -675,6 +675,14 @@
 				"na": null
 			},
 			"visible": false
+		},
+		"0x0100000004fd0902": {
+			"name": "Young Link (Ocarina of Time)",
+			"release": {}
+		},
+		"0x0101000004ff0902": {
+			"name": "Young Zelda (Ocarina of Time)",
+			"release": {}
 		}
 	},
 	"characters": {
