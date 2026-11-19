@@ -22,10 +22,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Set up Python 3.9
-        uses: actions/setup-python@v2
+      - uses: actions/setup-python@v7
         with:
-          python-version: 3.9
+          python-version: '3.13' 
 
       - name: Run checkdatabase.py
         run: python3 checkdatabase.py

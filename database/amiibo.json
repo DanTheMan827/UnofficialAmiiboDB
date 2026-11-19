@@ -675,6 +675,24 @@
 				"na": null
 			},
 			"visible": false
+		},
+		"0x0100000004fd0902": {
+			"name": "Young Link (Ocarina of Time)",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
+		},
+		"0x0101000004ff0902": {
+			"name": "Young Zelda (Ocarina of Time)",
+			"release": {
+				"au": null,
+				"eu": null,
+				"jp": null,
+				"na": null
+			}
 		}
 	},
 	"characters": {
@@ -734,7 +752,8 @@
 		"0x1919": "Pikachu",
 		"0x2104": "Roy",
 		"0x2281": "Lucas",
-		"0x34c0": "Ryu"
+		"0x34c0": "Ryu",
+		"0x0101": "Zelda"
 	},
 	"game_series": {
 		"0x000": "Super Mario",
